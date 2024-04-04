@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello World! I'm Éléa 👋   
 
-<!--
-**eleadufresne/eleadufresne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Problem-solver who loves everything related to cloud and edge computing. I live in the greater Seattle area and am a DevOps enthusiast with aspirations of becoming an SRE. 
+ 
+## 🛠 Toolbox
 
-Here are some ideas to get you started:
+- **Programming & Scripting:** `Java` `C/C++` `C#` `Python` `Bash` `YAML` `PowerShell` `OCaml`
+- **Cloud & Containerization:** `AWS` `Azure` `Docker` `Kubernetes`
+- **Configuration Management & IaC:** `Jenkins` `GitHub Actions` `ArgoCD` `Cloud Custodian` `Ansible` `Terraform`
+- **Data Processing, Monitoring & Logging:** `Apache Flink` `Prometheus` `Grafana`
+- **Databases:** `MySQL` `PostgreSQL`
+- **Version Control & Collaboration:** `Git` `JIRA` `agile methodologies`
+- **Soft Skills:** `technical writing` `cross-functional teamwork` `communication` `problem-solving`
+- **Languages:** `English` `French`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+## 🌱 Currently Learning
+
+I'm deepening my cloud infrastructure knowledge and working towards obtaining my AWS Developer certification (DVA-C02). Security is my top priority, and that's why I am also taking the Google Cybersecurity course.
+
+## 🤝 Let's Connect
+
+If you're interested in sharing practical tips, bouncing ideas off someone, or discussing the latest tech, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/eleadufresne/)!
+ 
