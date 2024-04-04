@@ -1,7 +1,12 @@
-## Hello World! I'm Éléa 👋   
+## 🚀 About Me
 
-I'm a problem-solver who loves everything related to cloud and edge computing. Just wrapped up my journey at McGill University with a degree in Computer Science and am a DevOps enthusiast with aspirations of becoming an SRE.
+Hello world! I'm Éléa —a recent McGill CompSci grad turned DevOps and site reliability enthusiast. I am passionate about cloud innovation and the cutting-edge realm of 
+edge computing, always eager to solve the next tech puzzle.
  
+## 💡 Currently Learning
+
+I'm on a thrilling journey to deepening my mastery of cloud infrastructure and edge solutions. I'm working towards obtaining my AWS Developer certification (DVA-C02) while keeping cybersecurity at the forefront by taking the Google Cybersecurity course.
+
 ## 🛠 Toolbox
 
 - **Programming & Scripting:** `Java` `C/C++` `C#` `Python` `Bash` `YAML` `PowerShell` `OCaml`
@@ -13,12 +18,6 @@ I'm a problem-solver who loves everything related to cloud and edge computing. J
 - **Soft Skills:** `technical writing` `cross-functional teamwork` `communication` `problem-solving`
 - **Languages:** `English` `French`
 
- 
-## 🌱 Currently Learning
-
-I'm deepening my cloud infrastructure knowledge and working towards obtaining my AWS Developer certification (DVA-C02). Security is my top priority, and that's why I am also taking the Google Cybersecurity course.
-
 ## 🤝 Let's Connect
 
-If you're interested in sharing practical tips, bouncing ideas off someone, or discussing the latest tech, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/eleadufresne/)!
- 
+Let's connect on [LinkedIn](https://www.linkedin.com/in/eleadufresne/) and propel the future of tech, one deployment at a time! 
