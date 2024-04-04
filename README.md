@@ -1,6 +1,6 @@
-### Hello World! I'm Éléa 👋   
+## Hello World! I'm Éléa 👋   
 
-Problem-solver who loves everything related to cloud and edge computing. I live in the greater Seattle area and am a DevOps enthusiast with aspirations of becoming an SRE. 
+I'm a problem-solver who loves everything related to cloud and edge computing. Just wrapped up my journey at McGill University with a degree in Computer Science and am a DevOps enthusiast with aspirations of becoming an SRE.
  
 ## 🛠 Toolbox
 
