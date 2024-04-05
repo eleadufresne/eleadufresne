@@ -1,11 +1,10 @@
 ## 🚀 About Me
 
-Hello world! I'm Éléa —a recent McGill CompSci grad turned DevOps and site reliability enthusiast. I am passionate about cloud innovation and the cutting-edge realm of 
-edge computing, always eager to solve the next tech puzzle.
+Hello world! I'm Éléa —a recent McGill CompSci grad turned DevOps and site reliability enthusiast. I am passionate about cloud innovation and edge computing, always eager to solve the next tech puzzle.
  
 ## 💡 Currently Learning
 
-I'm on a thrilling journey to deepening my mastery of cloud infrastructure and edge solutions. I'm working towards obtaining my AWS Developer certification (DVA-C02) while keeping cybersecurity at the forefront by taking the Google Cybersecurity course.
+I'm working towards obtaining my AWS Developer certification (DVA-C02) while keeping cybersecurity at the forefront by taking the Google Cybersecurity course.
 
 ## 🛠 Toolbox
 
