@@ -19,14 +19,13 @@ I'm working towards obtaining my AWS Developer certification (DVA-C02) while kee
 - **Data Processing, Monitoring & Logging:** `Apache Flink` `Prometheus` `Grafana`
 - **Databases:** `MySQL` `PostgreSQL`
 - **Version Control & Collaboration:** `Git` `JIRA` `agile methodologies`
-- **Soft Skills:** `technical writing` `cross-functional teamwork` `communication` `problem-solving`
+- **Soft Skills:** `technical writing` `cross-functional teamwork` `problem-solving`
 - **Languages:** `English` `French`
-
+- 
+<!--
 ## :woman_technologist: Stats
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eleadufresne&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eleadufresne&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
