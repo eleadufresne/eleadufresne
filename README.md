@@ -21,7 +21,7 @@ I'm working towards obtaining my AWS Developer certification (DVA-C02) while kee
 - **Version Control & Collaboration:** `Git` `JIRA` `agile methodologies`
 - **Soft Skills:** `technical writing` `cross-functional teamwork` `problem-solving`
 - **Languages:** `English` `French`
-- 
+  
 <!--
 ## :woman_technologist: Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eleadufresne&theme=dark&background=000000)](https://git.io/streak-stats)
