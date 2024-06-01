@@ -15,10 +15,9 @@ I'm working towards obtaining my AWS Developer certification (DVA-C02) while kee
 
 - **Programming & Scripting:** `Java` `Python` `C/C++` `Bash` `YAML` `OCaml`
 - **Cloud & Containerization:** `AWS` `Docker` `Kubernetes`
-- **Configuration Management & IaC:** `Jenkins` `GitHub Actions` `ArgoCD` `Cloud Custodian` `Ansible` 
+- **Configuration Management & IaC:** `Jenkins` `GitHub Actions` `ArgoCD` `Ansible` 
 - **Data Processing, Monitoring & Logging:** `Apache Flink` `Prometheus` `Grafana`
 - **Databases:** `MySQL` `PostgreSQL`
-- **Version Control & Collaboration:** `Git` `JIRA` `agile methodologies`
 - **Soft Skills:** `technical writing` `cross-functional teamwork` `problem-solving`
 - **Languages:** `English` `French`
   
