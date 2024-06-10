@@ -13,7 +13,7 @@ I'm working towards obtaining my AWS Developer certification (DVA-C02) while kee
 
 ## 🛠 Toolbox
 
-- **Programming & Scripting:** `Java` `Python` `C/C++` `Bash` `YAML` `OCaml`
+- **Programming & Scripting:** `Java` `Python` `C/C++` `Bash` `Groovy` `OCaml`
 - **Cloud & Containerization:** `AWS` `Docker` `Kubernetes`
 - **Configuration Management & IaC:** `Jenkins` `GitHub Actions` `ArgoCD` `Ansible` 
 - **Data Processing, Monitoring & Logging:** `Apache Flink` `Prometheus` `Grafana`
