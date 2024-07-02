@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-Hello world! I'm Éléa —a recent McGill Hounours CS grad from Canada, currently based in Seattle. I'm passionate about cloud innovation and cybersecurity, always eager to solve the next tech puzzle!
+Hello world! I'm Éléa —a recent CS grad, currently based in the Greater Seattle Area. I'm passionate about cloud innovation and cybersecurity, always eager to solve the next tech puzzle!
  
 ## 💡 Currently Learning
 
