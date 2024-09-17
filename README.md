@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-Hello world! I'm Éléa —a recent CS grad, currently based in the Greater Seattle Area. I'm passionate about cloud innovation and cybersecurity, always eager to solve the next tech puzzle!
+Hello World! I'm Éléa, a recent Computer Science graduate from McGill University. I absolutely love solving complex problems and thrive in dynamic, fast-paced environments. I'm a strategic thinker (hello, INTJ), but I also genuinely care about the people I work with and the impact of our work.
  
 ## 💡 Currently Learning
 
