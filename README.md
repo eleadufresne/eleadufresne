@@ -3,32 +3,46 @@
 </div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=eleadufresne&style=flat-square&color=blue" alt=""></p>
 
-## 🚀 About Me
+## 👋 About Me  
 
-Hello World! I'm Éléa, a recent Computer Science graduate from McGill University. I absolutely love solving complex problems and thrive in dynamic, fast-paced environments. I'm a strategic thinker (hello, INTJ), but I also genuinely care about the people I work with and the impact of our work.
- 
-## 💡 Currently Learning
+I build **efficient, scalable, and reliable software**—whether it’s **real-time data processing, cloud automation, full-stack or backend engineering**. I’m a strategic thinker (definitely an INTJ), but I also care about the people I work with and our impact. I love tackling **complex problems**, making systems **run smoother**, and uncovering new insights along the way.
 
-I'm working towards obtaining my AWS Developer certification (DVA-C02) while keeping cybersecurity at the forefront by taking the Google Cybersecurity course.
+Graduated from **McGill University** with my **B.Sc. in Honours Computer Science**, and I’ve worked on everything from **stream processing and cloud infrastructure** to **DevOps automation and open-source projects**. If it involves **distributed systems, automation, or making engineering workflows better**, I’m probably interested.  
 
-## 🛠 Toolbox
+---
 
-- **Programming & Scripting:** `Java` `Python` `C/C++` `Bash` `Groovy` `OCaml`
-- **Cloud & Containerization:** `AWS` `Docker` `Kubernetes`
-- **Configuration Management & IaC:** `Jenkins` `GitHub Actions` `ArgoCD` `Ansible` 
-- **Data Processing, Monitoring & Logging:** `Apache Flink` `Prometheus` `Grafana`
-- **Databases:** `MySQL` `PostgreSQL`
-- **Soft Skills:** `technical writing` `cross-functional teamwork` `problem-solving`
-- **Languages:** `English` `French`
-  
-<!--
-## :woman_technologist: Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eleadufresne&theme=dark&background=000000)](https://git.io/streak-stats)
+## 🛠 Tech Stack  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eleadufresne&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
--->
+- **Languages:** `Java` `Python` `C` `C++` `Bash` `YAML` `OCaml`  
+- **Cloud & Virtualization:** `AWS` `Docker` `Kubernetes`  
+- **CI/CD & Automation:** `Jenkins` `GitHub Actions` `ArgoCD` `Ansible`  
+- **Stream Processing & Monitoring:** `Apache Flink` `Prometheus` `Grafana`  
+- **Databases:** `MySQL` `PostgreSQL`  
+- **Software Development Practices:** `GitOps` `Agile Methodologies` `Open-Source Development`  
+- **Soft Skills:** `Technical Writing` `Cross-Functional Teamwork`  
+- **Languages:** `English` `French`  
 
-## 🤝 Let's Connect
+---
+
+## 🌱 Currently Learning  
+
+- **Go** – Exploring how it handles **scalability and concurrency**  
+- **AWS Developer Certification (DVA-C02)** – Strengthening my **cloud development** skills  
+- **Google Cybersecurity Course** – Keeping security top of mind in everything I build  
+
+---
+
+## 🔥 Notable Work  
+
+- **📡 Real-time Stream Processing:** Built an **Apache Flink** pipeline that **cut redundant data transmission by 5000x** and optimized **IoT data analysis**.  
+- **💾 Cloud Infrastructure & DevOps:** Automated **AWS infrastructure**, improved **database security**, and developed **CI/CD pipelines with Jenkins** at **SSENSE**.  
+- **🖥️ Open Source Contributions:** Contributed to **Windows Terminal** and other **command-line projects**—because making developer tools better is always worth it.  
+
+---
+
+## 🤝 Let’s Connect  
+
+If you’re into **back-end dev, distributed systems, or DevOps**, or just want to chat about cool tech, feel free to reach out!  
 
 <a href="https://www.linkedin.com/in/eleadufresne/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:eleadufresne@outlook.com">![eleadufresne@outlook.com](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)</a> 
