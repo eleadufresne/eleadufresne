@@ -5,21 +5,20 @@
 
 ## 👋 About Me  
 
-I build **efficient, scalable, and reliable software**—whether it’s **real-time data processing, cloud automation, full-stack or backend engineering**. I’m a strategic thinker (definitely an INTJ), but I also care about the people I work with and our impact. I love tackling **complex problems**, making systems **run smoother**, and uncovering new insights along the way.
+Hello World! I'm Éléa, a naturally strategic thinker (INTJ if that means anything to you), and I enjoy breaking things down to understand how they work. I thrive on challenging tasks, pulling all-nighters coding, and constantly seeking to learn new things. Over time, I've learned that collaboration and shared goals lead to the best solutions. 
 
-Graduated from **McGill University** with my **B.Sc. in Honours Computer Science**, and I’ve worked on everything from **stream processing and cloud infrastructure** to **DevOps automation and open-source projects**. If it involves **distributed systems, automation, or making engineering workflows better**, I’m probably interested.  
+I graduated from McGill last year with a B.Sc. in Honours Computer Science, and since then, I've fully immersed myself in open-source and independent learning. My background spans QA, software engineering, DevOps, and edge-computing research. 
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack
 
-- **Languages:** `Java` `Python` `C` `C++` `Bash` `YAML` `OCaml`  
-- **Cloud & Virtualization:** `AWS` `Docker` `Kubernetes`  
+- **Languages:** `Python` `Java` `C` `C++` `Bash` `YAML` `OCaml`  
+- **Cloud & Containers:** `AWS` `Docker` `Kubernetes`  
 - **CI/CD & Automation:** `Jenkins` `GitHub Actions` `ArgoCD` `Ansible`  
-- **Stream Processing & Monitoring:** `Apache Flink` `Prometheus` `Grafana`  
+- **Data Processing & Monitoring:** `Apache Flink` `Prometheus` `Grafana`  
 - **Databases:** `MySQL` `PostgreSQL`  
-- **Software Development Practices:** `GitOps` `Agile Methodologies` `Open-Source Development`  
-- **Soft Skills:** `Technical Writing` `Cross-Functional Teamwork`  
+- **Software Development Practices:** `GitOps` `Agile` `Open Source Development`  
 - **Languages:** `English` `French`  
 
 ---
@@ -34,15 +33,16 @@ Graduated from **McGill University** with my **B.Sc. in Honours Computer Science
 
 ## 🔥 Notable Work  
 
-- **📡 Real-time Stream Processing:** Built an **Apache Flink** pipeline that **cut redundant data transmission by 5000x** and optimized **IoT data analysis**.  
-- **💾 Cloud Infrastructure & DevOps:** Automated **AWS infrastructure**, improved **database security**, and developed **CI/CD pipelines with Jenkins** at **SSENSE**.  
-- **🖥️ Open Source Contributions:** Contributed to **Windows Terminal** and other **command-line projects**—because making developer tools better is always worth it.  
+- **📡 Real-time Stream Processing:** Built an **Apache Flink** pipeline that **cut redundant data transmission by 5000x** and optimized **IoT data analysis** with milisecond level downtime.   
+- **💾 Cloud Infrastructure & DevOps:** Automated **AWS infrastructure**, improved **database security**, and developed **CI/CD pipelines with Jenkins**, cutting infrastructure costs **by up to 50%**.  
+- **🖥️ Open Source Contributions:** Contributed to **Windows Terminal** and other **command-line projects**, because making developer tools better is always worth it.  
 
 ---
 
-## 🤝 Let’s Connect  
+## 🤝 Let's Connect  
 
-If you’re into **back-end dev, distributed systems, or DevOps**, or just want to chat about cool tech, feel free to reach out!  
+I'm currently open to **DevOps, SRE, backend and full-stack engineering roles**. If you're a recruiter, engineer, or someone who loves building great systems, feel free to reach out!
+
 
 <a href="https://www.linkedin.com/in/eleadufresne/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:eleadufresne@outlook.com">![eleadufresne@outlook.com](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)</a> 
+<a href="mailto:eleadufresne@outlook.com">![eleadufresne@outlook.com](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)</a>  
