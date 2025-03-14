@@ -5,9 +5,9 @@
 
 ## 👋 About Me  
 
-Hello World! I'm Éléa, a naturally strategic thinker (INTJ if that means anything to you), and I enjoy breaking things down to understand how they work. I thrive on challenging tasks, pulling all-nighters coding, and constantly seeking to learn new things. Over time, I've learned that collaboration and shared goals lead to the best solutions. 
+Hello World! I'm Éléa, a natural strategic thinker (INTJ, if that means anything to you). I thrive on finding the most efficient way to solve complex problems through automating infrastructure, optimizing backend performance, or debugging tricky issues. Late-night coding sessions are my happy place, and I'm always eager to pick up something new. Above all, I've discovered that the best solutions come from collaboration and shared goals.
 
-I graduated from McGill last year with a B.Sc. in Honours Computer Science, and since then, I've fully immersed myself in open-source and independent learning. My background spans QA, software engineering, DevOps, and edge-computing research. 
+I graduated last year from McGill with a B.Sc. in Honours Computer Science, and since then, I've fully immersed myself in open-source and independent learning. My experience includes software engineering, DevOps, QA, and edge-computing research. 
 
 ---
 
@@ -41,7 +41,7 @@ I graduated from McGill last year with a B.Sc. in Honours Computer Science, and 
 
 ## 🤝 Let's Connect  
 
-I'm currently open to **DevOps, SRE, backend and full-stack engineering roles**. If you're a recruiter, engineer, or someone who loves building great systems, feel free to reach out!
+Currently exploring **DevOps, SRE, backend and full-stack engineering roles**. If you're a recruiter, mentor, engineer, or just someone who loves building great systems, feel free to reach out!
 
 
 <a href="https://www.linkedin.com/in/eleadufresne/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
