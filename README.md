@@ -5,7 +5,7 @@
 
 ## 👋 About Me  
 
-Hello World! I'm Éléa, a natural strategic thinker (INTJ, if that means anything to you). I thrive on finding the most efficient way to solve complex problems through automating infrastructure, optimizing backend performance, or debugging tricky issues. Late-night coding sessions are my happy place, and I'm always eager to pick up something new. Above all, I've discovered that the best solutions come from collaboration and shared goals.
+Hello World! I'm Éléa, a natural strategic thinker (INTJ, if that means anything to you) who thrives on solving complex problems efficiently, whether by automating infrastructure, optimizing backend performance, or debugging tricky issues. Late-night coding sessions are my happy place, and I'm always eager to pick up something new. But the best solutions come from collaboration and shared goals.
 
 I graduated last year from McGill with a B.Sc. in Honours Computer Science, and since then, I've fully immersed myself in open-source and independent learning. My experience includes software engineering, DevOps, QA, and edge-computing research. 
 
