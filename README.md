@@ -33,9 +33,11 @@ I graduated last year from McGill with a B.Sc. in Honours Computer Science, and 
 
 ## 🔥 Notable Work  
 
-- **📡 Real-time Stream Processing:** Built an **Apache Flink** pipeline that **cut redundant data transmission by 5000x** and optimized **IoT data analysis** with milisecond level downtime.   
-- **💾 Cloud Infrastructure & DevOps:** Automated **AWS infrastructure**, improved **database security**, and developed **CI/CD pipelines with Jenkins**, cutting infrastructure costs **by up to 50%**.  
-- **🖥️ Open Source Contributions:** Contributed to **Windows Terminal** and other **command-line projects**, because making developer tools better is always worth it.  
+- 📡 **Seamless Stream Processing** – Built an Apache Flink application for **real-time IoT data analysis**, reducing redundant data transmission by **5000x** and optimizing distributed systems for **millisecond-level downtime**.
+
+- 💾 **Cloud Infrastructure & DevOps** – Reduced **AWS infrastructure costs by up to 50%** using Lambda and Cloud Custodian. Developed a **PoC for automating Helm chart deployments**, which later drove the migration of **50+ services** across multiple teams.
+
+- 🖥️ **Open Source Contributions** – Contributed to **Windows Terminal at Microsoft**, adding a **colour scheme preview feature** ([PR #18518](https://github.com/microsoft/terminal/pull/18518)) and fixing a **keyboard shortcut bug** ([PR #18483](https://github.com/microsoft/terminal/pull/18483)), improving UI customization and accessibility for thousands of users.  
 
 ---
 
