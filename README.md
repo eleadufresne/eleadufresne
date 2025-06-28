@@ -43,8 +43,5 @@ I graduated last year from McGill with a B.Sc. in Honours Computer Science, and 
 
 ## 🤝 Let's Connect  
 
-Currently exploring **DevOps, SRE, backend and full-stack engineering roles**. If you're a recruiter, mentor, engineer, or just someone who loves building great systems, feel free to reach out!
-
-
 <a href="https://www.linkedin.com/in/eleadufresne/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:eleadufresne@outlook.com">![eleadufresne@outlook.com](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)</a>  
